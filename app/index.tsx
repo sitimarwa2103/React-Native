@@ -50,7 +50,7 @@ const gaya = StyleSheet.create({
     width: 270,
     height: 64,
     backgroundColor: '#2e7d32',
-    borderRadius: 50,
+    borderRadius: 10,
     justifyContent: 'center',
     alignItems: 'center',
     paddingHorizontal: 18,
